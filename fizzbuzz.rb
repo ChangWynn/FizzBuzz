@@ -14,5 +14,4 @@ end
 
 puts "Type in your number"
 number = gets.chomp
-
 fizzbuzz(number.to_i)
